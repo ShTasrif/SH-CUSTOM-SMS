@@ -29,7 +29,7 @@ python csms.py
 ### Run Tools
 
 ```bash
-csms
+shcsms
 ```
 <div align="center">
 
