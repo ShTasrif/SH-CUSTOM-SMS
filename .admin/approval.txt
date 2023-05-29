@@ -2,6 +2,7 @@
 5.4.161-android12-9-660529-g48c2e323b86e-ab502 = "Shahadat"
 4.9.190+ = RK-RaiHaN-KoBiR
 4.19.157-perf-gcbd64b102864 = "Durjoy'
+4.19.136-perf+ = "professor"
 4.4.153-perf = "Rahu"
 4.19.191+ = 1day
 4.9.117 = "zesan"
