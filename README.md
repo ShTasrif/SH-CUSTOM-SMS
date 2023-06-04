@@ -20,7 +20,8 @@ Bangladeshi Free SMS Sending Tool
 ```bash
 pkg update && pkg upgrade -y
 pkg install git -y
-pkg install python -y
+pkg install python ruby -y
+gem install lolcat
 git clone https://github.com/ShTasrif/SH-CUSTOM-SMS
 pip install requests
 cd SH-CUSTOM-SMS
