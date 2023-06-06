@@ -1,9 +1,9 @@
-{"info":
- {
-   "name":"SH CUSTOM SMS",
-  "version": "1.0.4"
+{
+  "info": {
+    "name": "SH CUSTOM SMS",
+    "version": "1.0.4"
+  },
+  "data": {
+    "Text": "Hello World"
   }
- {"data":
- {"Text": "Hello World"}
 }
-  
